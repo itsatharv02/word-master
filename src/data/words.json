@@ -1,0 +1,858 @@
+[
+  {
+    "word": "ALERT",
+    "meaning": "Quick to notice and react",
+    "example": "Stay alert while driving."
+  },
+  {
+    "word": "BASIC",
+    "meaning": "Simple or essential",
+    "example": "He taught me the basic rules."
+  },
+  {
+    "word": "CLASH",
+    "meaning": "A conflict or fight",
+    "example": "Their opinions clash often."
+  },
+  {
+    "word": "DENSE",
+    "meaning": "Thick or tightly packed",
+    "example": "The forest was dense and dark."
+  },
+  {
+    "word": "EAGER",
+    "meaning": "Very interested or excited",
+    "example": "She was eager to start the project."
+  },
+  {
+    "word": "FABLE",
+    "meaning": "A short story with a moral",
+    "example": "We read a fable about honesty."
+  },
+  {
+    "word": "GLARE",
+    "meaning": "A strong or angry stare",
+    "example": "He gave me a sharp glare."
+  },
+  {
+    "word": "HASTY",
+    "meaning": "Done too quickly without care",
+    "example": "It was a hasty decision."
+  },
+  {
+    "word": "INDEX",
+    "meaning": "An alphabetical list of topics",
+    "example": "Check the index for the topic."
+  },
+  {
+    "word": "JOLLY",
+    "meaning": "Happy and cheerful",
+    "example": "She was in a jolly mood."
+  },
+  {
+    "word": "KNEEL",
+    "meaning": "To go down on one or both knees",
+    "example": "He kneeled to tie his shoe."
+  },
+  {
+    "word": "LATCH",
+    "meaning": "A device for locking a door",
+    "example": "Secure the latch before leaving."
+  },
+  {
+    "word": "METAL",
+    "meaning": "A hard, shiny material",
+    "example": "The frame is made of metal."
+  },
+  {
+    "word": "NOBLE",
+    "meaning": "Having high moral qualities",
+    "example": "It was a noble decision."
+  },
+  {
+    "word": "OPTIC",
+    "meaning": "Related to sight or vision",
+    "example": "The optic nerve is crucial for seeing."
+  },
+  {
+    "word": "PRIME",
+    "meaning": "Of best quality or importance",
+    "example": "This house is in a prime location."
+  },
+  {
+    "word": "REACT",
+    "meaning": "To respond to something",
+    "example": "He reacted calmly to the news."
+  },
+  {
+    "word": "SLANT",
+    "meaning": "A slope or angle",
+    "example": "The roof has a small slant."
+  },
+  {
+    "word": "TROOP",
+    "meaning": "A group of soldiers",
+    "example": "The troop marched forward."
+  },
+  {
+    "word": "VIVID",
+    "meaning": "Bright or detailed",
+    "example": "She has vivid memories of childhood."
+  },
+
+  {
+    "word": "ABIDE",
+    "meaning": "To accept or follow a rule",
+    "example": "You must abide by the law."
+  },
+  {
+    "word": "BEGUN",
+    "meaning": "Started or commenced",
+    "example": "The movie had already begun."
+  },
+  {
+    "word": "CIVIL",
+    "meaning": "Polite; relating to citizens",
+    "example": "Please remain civil during the debate."
+  },
+  {
+    "word": "DETER",
+    "meaning": "To discourage or prevent",
+    "example": "The fence will deter intruders."
+  },
+  {
+    "word": "ELATE",
+    "meaning": "Make someone very happy",
+    "example": "The good news elated her."
+  },
+  {
+    "word": "FETCH",
+    "meaning": "To go and bring back",
+    "example": "Please fetch me some water."
+  },
+  {
+    "word": "GLIDE",
+    "meaning": "Move smoothly and quietly",
+    "example": "The bird glided across the lake."
+  },
+  {
+    "word": "HUMID",
+    "meaning": "Slightly wet or moist",
+    "example": "The weather was hot and humid."
+  },
+  {
+    "word": "IDEAL",
+    "meaning": "Perfect or most suitable",
+    "example": "This is the ideal place to study."
+  },
+  {
+    "word": "JUDGE",
+    "meaning": "To form an opinion",
+    "example": "Don't judge a book by its cover."
+  },
+  {
+    "word": "KOALA",
+    "meaning": "An Australian tree-dwelling mammal",
+    "example": "The koala slept on the branch."
+  },
+  {
+    "word": "LOFTY",
+    "meaning": "High or tall; noble-minded",
+    "example": "He had lofty ambitions."
+  },
+  {
+    "word": "MOTTO",
+    "meaning": "A short saying expressing a principle",
+    "example": "The school's motto promotes kindness."
+  },
+  {
+    "word": "NERVE",
+    "meaning": "Courage or boldness",
+    "example": "She had the nerve to speak up."
+  },
+  {
+    "word": "OPERA",
+    "meaning": "A dramatic musical performance",
+    "example": "They attended an Italian opera."
+  },
+  {
+    "word": "PATCH",
+    "meaning": "A small area of something",
+    "example": "There is a patch of grass in the yard."
+  },
+  {
+    "word": "QUIRK",
+    "meaning": "A strange habit or feature",
+    "example": "His quirky humor made us laugh."
+  },
+  {
+    "word": "RIGID",
+    "meaning": "Stiff and not flexible",
+    "example": "The rules are quite rigid here."
+  },
+  {
+    "word": "SNACK",
+    "meaning": "A small amount of food",
+    "example": "I had a snack between meals."
+  },
+  {
+    "word": "TRAIL",
+    "meaning": "A path or track",
+    "example": "They hiked along the trail."
+  },
+
+  {
+    "word": "UNITY",
+    "meaning": "Being united or together",
+    "example": "There was a strong sense of unity."
+  },
+  {
+    "word": "VAULT",
+    "meaning": "A secure room for storing valuables",
+    "example": "The gold was kept in the vault."
+  },
+  {
+    "word": "WORTH",
+    "meaning": "Value or importance",
+    "example": "This painting is worth a lot."
+  },
+  {
+    "word": "YEARN",
+    "meaning": "To long or desire strongly",
+    "example": "He yearned for adventure."
+  },
+  {
+    "word": "ZESTY",
+    "meaning": "Full of flavor or excitement",
+    "example": "The sauce was tangy and zesty."
+  },
+  {
+    "word": "ADMIT",
+    "meaning": "To confess or accept",
+    "example": "He admitted his mistake."
+  },
+  {
+    "word": "BLADE",
+    "meaning": "The flat cutting edge of a knife",
+    "example": "The blade was very sharp."
+  },
+  {
+    "word": "CARGO",
+    "meaning": "Goods carried by a ship or vehicle",
+    "example": "The ship carried valuable cargo."
+  },
+  {
+    "word": "DROOP",
+    "meaning": "To hang down weakly",
+    "example": "The flowers drooped without water."
+  },
+  {
+    "word": "EVERY",
+    "meaning": "Each one of a group",
+    "example": "He checks his email every day."
+  },
+  {
+    "word": "FORGE",
+    "meaning": "To create or form something",
+    "example": "They forged a strong friendship."
+  },
+  {
+    "word": "GRASP",
+    "meaning": "To hold tightly or understand",
+    "example": "He couldn't grasp the concept."
+  },
+  {
+    "word": "HONEY",
+    "meaning": "Sweet substance made by bees",
+    "example": "She sweetened her tea with honey."
+  },
+  {
+    "word": "INFER",
+    "meaning": "To conclude from evidence",
+    "example": "We inferred the meaning from context."
+  },
+  {
+    "word": "JUMBO",
+    "meaning": "Very large in size",
+    "example": "They ordered a jumbo pizza."
+  },
+  {
+    "word": "LEMON",
+    "meaning": "A sour yellow fruit",
+    "example": "Lemon adds flavor to water."
+  },
+  {
+    "word": "MAGIC",
+    "meaning": "The power to do supernatural things",
+    "example": "The magician performed magic tricks."
+  },
+  {
+    "word": "NAIVE",
+    "meaning": "Lacking experience or judgment",
+    "example": "She was naive to trust him."
+  },
+  {
+    "word": "OZONE",
+    "meaning": "A gas in the atmosphere",
+    "example": "Ozone protects us from UV rays."
+  },
+  {
+    "word": "PLUSH",
+    "meaning": "Luxuriously soft or rich",
+    "example": "The sofa had a plush texture."
+  },
+
+  {
+    "word": "QUITE",
+    "meaning": "Completely or fairly",
+    "example": "The task was quite simple."
+  },
+  {
+    "word": "ROUGH",
+    "meaning": "Not smooth; harsh",
+    "example": "The road was rough and bumpy."
+  },
+  {
+    "word": "SWEAR",
+    "meaning": "To promise or use bad language",
+    "example": "He swore to tell the truth."
+  },
+  {
+    "word": "TANGO",
+    "meaning": "A lively ballroom dance",
+    "example": "They danced the tango beautifully."
+  },
+  {
+    "word": "URBAN",
+    "meaning": "Relating to a city",
+    "example": "Urban life is fast-paced."
+  },
+  {
+    "word": "VALET",
+    "meaning": "A person who parks cars",
+    "example": "The valet took the keys."
+  },
+  {
+    "word": "WAVER",
+    "meaning": "To hesitate or be unsure",
+    "example": "She didn't waver in her decision."
+  },
+  {
+    "word": "YACHT",
+    "meaning": "A large sailing boat",
+    "example": "They took a trip on the yacht."
+  },
+  {
+    "word": "ZONED",
+    "meaning": "Divided into areas",
+    "example": "The land was zoned for housing."
+  },
+
+  {
+    "word": "ANGRY",
+    "meaning": "Feeling mad or upset",
+    "example": "He was angry after the argument."
+  },
+  {
+    "word": "BRISK",
+    "meaning": "Quick and energetic",
+    "example": "They took a brisk walk."
+  },
+  {
+    "word": "CRUEL",
+    "meaning": "Causing pain or suffering",
+    "example": "It was cruel to tease the dog."
+  },
+  {
+    "word": "DIZZY",
+    "meaning": "Feeling lightheaded",
+    "example": "She felt dizzy after spinning."
+  },
+  {
+    "word": "ECLIP",
+    "meaning": "To surpass or overshadow",
+    "example": "Her success eclipsed his efforts."
+  },
+  {
+    "word": "FLAIR",
+    "meaning": "A special ability",
+    "example": "She has a flair for design."
+  },
+  {
+    "word": "GLOOM",
+    "meaning": "Partial or total darkness; sadness",
+    "example": "He sat alone in gloom."
+  },
+  {
+    "word": "HOVER",
+    "meaning": "To stay in one place in the air",
+    "example": "The helicopter hovered above."
+  },
+  {
+    "word": "INNER",
+    "meaning": "Located inside",
+    "example": "He explored his inner thoughts."
+  },
+  {
+    "word": "JOLTS",
+    "meaning": "Sudden movements or shocks",
+    "example": "The car jolts on rough roads."
+  },
+  {
+    "word": "LABEL",
+    "meaning": "A tag or classification",
+    "example": "The jar had a clear label."
+  },
+  {
+    "word": "MIRTH",
+    "meaning": "Happiness and laughter",
+    "example": "The room was filled with mirth."
+  },
+  {
+    "word": "NOVEL",
+    "meaning": "A long fictional story",
+    "example": "She is writing a novel."
+  },
+  {
+    "word": "ODDLY",
+    "meaning": "In a strange manner",
+    "example": "He behaved oddly today."
+  },
+  {
+    "word": "PRISM",
+    "meaning": "A glass object that bends light",
+    "example": "Light through the prism made colors."
+  },
+  {
+    "word": "RELAY",
+    "meaning": "To pass something on",
+    "example": "He relayed the message quickly."
+  },
+  {
+    "word": "SOLID",
+    "meaning": "Firm and stable",
+    "example": "The table is made of solid wood."
+  },
+  {
+    "word": "THORN",
+    "meaning": "A sharp plant spine",
+    "example": "The rose stem has thorns."
+  },
+  {
+    "word": "UPLIT",
+    "meaning": "Lit from below",
+    "example": "The statue was uplit dramatically."
+  },
+  {
+    "word": "WISER",
+    "meaning": "Having more wisdom",
+    "example": "He grew wiser with age."
+  },
+  {
+    "word": "ARISE",
+    "meaning": "To come into being",
+    "example": "Problems may arise unexpectedly."
+  },
+  {
+    "word": "BOUND",
+    "meaning": "Tied or restricted",
+    "example": "His hands were bound with rope."
+  },
+  {
+    "word": "CREST",
+    "meaning": "The top of something",
+    "example": "They reached the mountain's crest."
+  },
+  {
+    "word": "DROOL",
+    "meaning": "To let saliva fall",
+    "example": "The puppy drooled with excitement."
+  },
+  {
+    "word": "ELUDE",
+    "meaning": "To escape or avoid",
+    "example": "He eluded the guards easily."
+  },
+  {
+    "word": "FLUTE",
+    "meaning": "A musical wind instrument",
+    "example": "She played the flute beautifully."
+  },
+  {
+    "word": "GRACE",
+    "meaning": "Elegance or beauty",
+    "example": "She danced with grace."
+  },
+  {
+    "word": "HUMOR",
+    "meaning": "The quality of being funny",
+    "example": "His humor lightened the mood."
+  },
+  {
+    "word": "ICILY",
+    "meaning": "In a cold manner",
+    "example": "She spoke icily to him."
+  },
+  {
+    "word": "JOLLY",
+    "meaning": "Happy and cheerful",
+    "example": "They were in a jolly mood."
+  },
+
+  {
+    "word": "KNACK",
+    "meaning": "A natural talent",
+    "example": "He has a knack for cooking."
+  },
+  {
+    "word": "LUCID",
+    "meaning": "Clear and easy to understand",
+    "example": "Her explanation was lucid."
+  },
+  {
+    "word": "MASON",
+    "meaning": "A person who builds with stone",
+    "example": "The mason repaired the wall."
+  },
+  {
+    "word": "NIMBLE",
+    "meaning": "Quick and light in movement",
+    "example": "The cat was nimble on the fence."
+  },
+  {
+    "word": "OFFER",
+    "meaning": "To present something",
+    "example": "He offered help."
+  },
+  {
+    "word": "PRANK",
+    "meaning": "A playful trick",
+    "example": "They played a harmless prank."
+  },
+  {
+    "word": "ROVER",
+    "meaning": "A wanderer",
+    "example": "The rover explored the area."
+  },
+  {
+    "word": "SAVOR",
+    "meaning": "To enjoy fully",
+    "example": "She savored each moment."
+  },
+  {
+    "word": "THRUM",
+    "meaning": "To hum or vibrate",
+    "example": "The engine thrummed softly."
+  },
+  {
+    "word": "UNIFY",
+    "meaning": "To bring together",
+    "example": "The leader aimed to unify the team."
+  },
+
+  {
+    "word": "VAUNT",
+    "meaning": "To brag or boast",
+    "example": "He vaunted his achievements."
+  },
+  {
+    "word": "WITTY",
+    "meaning": "Smart and humorous",
+    "example": "His witty remarks amused us."
+  },
+  {
+    "word": "YIELD",
+    "meaning": "To produce or give way",
+    "example": "The farm yielded a good crop."
+  },
+  {
+    "word": "ZINGY",
+    "meaning": "Energetic and exciting",
+    "example": "The drink had a zingy taste."
+  },
+  {
+    "word": "ADORE",
+    "meaning": "To love deeply",
+    "example": "She adores her cat."
+  },
+  {
+    "word": "BLAST",
+    "meaning": "A strong burst of air",
+    "example": "A blast of wind hit the door."
+  },
+  {
+    "word": "CROWD",
+    "meaning": "A large group of people",
+    "example": "A crowd gathered at the gate."
+  },
+  {
+    "word": "DROPS",
+    "meaning": "Small amounts of liquid",
+    "example": "Rain drops fell quietly."
+  },
+  {
+    "word": "ELBOW",
+    "meaning": "Joint between arm and forearm",
+    "example": "He bruised his elbow."
+  },
+  {
+    "word": "FROST",
+    "meaning": "A thin layer of ice",
+    "example": "Frost covered the grass."
+  },
+
+  {
+    "word": "GRIND",
+    "meaning": "To crush into small pieces",
+    "example": "He ground the spices."
+  },
+  {
+    "word": "HOIST",
+    "meaning": "To lift something heavy",
+    "example": "They hoisted the flag."
+  },
+  {
+    "word": "IMPEL",
+    "meaning": "To drive someone to act",
+    "example": "Duty impelled him to stay."
+  },
+  {
+    "word": "JOKER",
+    "meaning": "A playful or humorous person",
+    "example": "He was the joker of the group."
+  },
+  {
+    "word": "LUNAR",
+    "meaning": "Related to the moon",
+    "example": "They observed the lunar eclipse."
+  },
+  {
+    "word": "MINOR",
+    "meaning": "Less important",
+    "example": "It was a minor issue."
+  },
+  {
+    "word": "NORTH",
+    "meaning": "Direction opposite south",
+    "example": "They traveled north."
+  },
+  {
+    "word": "OBEYS",
+    "meaning": "Follows instructions",
+    "example": "The dog obeys commands well."
+  },
+  {
+    "word": "PERCH",
+    "meaning": "To rest on something high",
+    "example": "The bird perched on the branch."
+  },
+  {
+    "word": "QUOTA",
+    "meaning": "A fixed share of something",
+    "example": "She met her daily quota."
+  },
+
+  {
+    "word": "RENEW",
+    "meaning": "To restore or bring back",
+    "example": "They renewed their contract."
+  },
+  {
+    "word": "SCOUT",
+    "meaning": "One who explores or searches",
+    "example": "The scout found a safe path."
+  },
+  {
+    "word": "TWEAK",
+    "meaning": "To adjust slightly",
+    "example": "He tweaked the settings."
+  },
+  {
+    "word": "UNSET",
+    "meaning": "Not fixed or final",
+    "example": "The date remains unset."
+  },
+  {
+    "word": "VOUCH",
+    "meaning": "To confirm something is true",
+    "example": "I can vouch for his honesty."
+  },
+  {
+    "word": "WIELD",
+    "meaning": "To hold and use",
+    "example": "He wielded the sword skillfully."
+  },
+  {
+    "word": "YOUNG",
+    "meaning": "Not old",
+    "example": "The young plants grew fast."
+  },
+  {
+    "word": "ZAPPY",
+    "meaning": "Energetic and lively",
+    "example": "The music had a zappy beat."
+  },
+  {
+    "word": "ALGAE",
+    "meaning": "Simple water plants",
+    "example": "Algae grew in the pond."
+  },
+  {
+    "word": "BRINE",
+    "meaning": "Salty water",
+    "example": "The olives were kept in brine."
+  },
+
+  {
+    "word": "CLAMP",
+    "meaning": "A device for holding things tightly",
+    "example": "Use a clamp to secure it."
+  },
+  {
+    "word": "DRAFT",
+    "meaning": "A rough version of something",
+    "example": "He wrote a draft of his essay."
+  },
+  {
+    "word": "EVADE",
+    "meaning": "To avoid or escape",
+    "example": "He evaded answering the question."
+  },
+  {
+    "word": "FLUNG",
+    "meaning": "Thrown suddenly",
+    "example": "He flung the door open."
+  },
+  {
+    "word": "GAUGE",
+    "meaning": "To measure or judge",
+    "example": "She gauged his reaction."
+  },
+  {
+    "word": "HARSH",
+    "meaning": "Rough or severe",
+    "example": "The weather was harsh."
+  },
+  {
+    "word": "INGOT",
+    "meaning": "A bar of metal",
+    "example": "The gold ingot was valuable."
+  },
+  {
+    "word": "JERKY",
+    "meaning": "Not smooth; sudden movements",
+    "example": "The ride felt jerky."
+  },
+  {
+    "word": "LAYER",
+    "meaning": "A thickness of material",
+    "example": "Add another layer of paint."
+  },
+  {
+    "word": "MANOR",
+    "meaning": "A large country house",
+    "example": "The manor had a big garden."
+  },
+
+  {
+    "word": "NODAL",
+    "meaning": "Related to a central point",
+    "example": "The nodal point shifted."
+  },
+  {
+    "word": "OASIS",
+    "meaning": "A fertile place in a desert",
+    "example": "They rested at the oasis."
+  },
+  {
+    "word": "PIETY",
+    "meaning": "Religious devotion",
+    "example": "Her piety inspired many."
+  },
+  {
+    "word": "QUELL",
+    "meaning": "To calm or stop",
+    "example": "He tried to quell the unrest."
+  },
+  {
+    "word": "RUSTY",
+    "meaning": "Covered with rust",
+    "example": "The iron gate was rusty."
+  },
+  {
+    "word": "SHINE",
+    "meaning": "To give off light",
+    "example": "The stars shone brightly."
+  },
+  {
+    "word": "TINCT",
+    "meaning": "To color or tint",
+    "example": "The sky was tincted with pink."
+  },
+  {
+    "word": "UPHOLD",
+    "meaning": "To maintain or support",
+    "example": "They upheld the decision."
+  },
+  {
+    "word": "WORRY",
+    "meaning": "To feel anxious",
+    "example": "Don't worry about the test."
+  },
+  {
+    "word": "YONDER",
+    "meaning": "In the distance",
+    "example": "Look at the hills yonder."
+  },
+
+  {
+    "word": "ZEBRA",
+    "meaning": "Striped African animal",
+    "example": "A zebra grazed nearby."
+  },
+  {
+    "word": "ARROW",
+    "meaning": "A pointed weapon shot from a bow",
+    "example": "He aimed the arrow carefully."
+  },
+  {
+    "word": "BERRY",
+    "meaning": "Small juicy fruit",
+    "example": "She picked fresh berries."
+  },
+  {
+    "word": "CRISP",
+    "meaning": "Firm and fresh",
+    "example": "The apple was crisp."
+  },
+  {
+    "word": "DWELL",
+    "meaning": "To live in a place",
+    "example": "They dwell near the river."
+  },
+  {
+    "word": "EXALT",
+    "meaning": "To praise highly",
+    "example": "They exalted the leader."
+  },
+  {
+    "word": "FROZE",
+    "meaning": "Turned to ice",
+    "example": "The lake froze overnight."
+  },
+  {
+    "word": "GRAZE",
+    "meaning": "Animals feeding on grass",
+    "example": "Cows grazed in the field."
+  },
+  {
+    "word": "HUSHY",
+    "meaning": "Quiet or calm",
+    "example": "The room turned hushy."
+  },
+  {
+    "word": "IVORY",
+    "meaning": "Creamy-white material",
+    "example": "The sculpture was made of ivory."
+  }
+]
